@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
