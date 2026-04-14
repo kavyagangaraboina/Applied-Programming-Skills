@@ -1,17 +1,19 @@
-import java.util.*;
+import java.util.Stack;
 
 class Solution {
-    public int[] nextGreaterElement(int[] a, int[] b) {
-        Map<Integer,Integer> m = new HashMap<>();
-        Stack<Integer> s = new Stack<>();
-        for (int x : b) {
-            while (!s.isEmpty() && s.peek() < x)
-                m.put(s.pop(), x);
-            s.push(x);
+    public int[] dailyTemperatures(int[] temperatures) {
+        int n = temperatures.length;
+        int[] answer = new int[n];
+        Stack<Integer> stack = new Stack<>(); // stores indices
+        
+        for (int i = 0; i < n; i++) {
+            while (!stack.isEmpty() && temperatures[i] > temperatures[stack.peek()]) {
+                int index = stack.pop();
+                answer[index] = i - index;
+            }
+            stack.push(i);
         }
-        while (!s.isEmpty()) m.put(s.pop(), -1);
-        int[] r = new int[a.length];
-        for (int i = 0; i < a.length; i++) r[i] = m.get(a[i]);
-        return r;
+        
+        return answer;
     }
 }
