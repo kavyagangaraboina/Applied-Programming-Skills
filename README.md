@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0704-binary-search) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
