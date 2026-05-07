@@ -1,21 +1,48 @@
 import java.util.*;
 
 class Solution {
-    public int longestSubarray(int[] a, int limit) {
-        Deque<Integer> max = new ArrayDeque<>(), min = new ArrayDeque<>();
-        int l = 0, res = 0;
-        for (int r = 0; r < a.length; r++) {
-            while (!max.isEmpty() && a[r] > max.peekLast()) max.pollLast();
-            while (!min.isEmpty() && a[r] < min.peekLast()) min.pollLast();
-            max.add(a[r]);
-            min.add(a[r]);
-            while (max.peek() - min.peek() > limit) {
-                if (max.peek() == a[l]) max.poll();
-                if (min.peek() == a[l]) min.poll();
-                l++;
+
+    public int longestSubarray(int[] nums, int limit) {
+
+        Deque<Integer> maxDeque = new LinkedList<>();
+        Deque<Integer> minDeque = new LinkedList<>();
+
+        int left = 0;
+        int result = 0;
+
+        for (int right = 0; right < nums.length; right++) {
+
+            while (!maxDeque.isEmpty() &&
+                   nums[right] > maxDeque.peekLast()) {
+
+                maxDeque.pollLast();
             }
-            res = Math.max(res, r - l + 1);
+
+            while (!minDeque.isEmpty() &&
+                   nums[right] < minDeque.peekLast()) {
+
+                minDeque.pollLast();
+            }
+
+            maxDeque.offerLast(nums[right]);
+            minDeque.offerLast(nums[right]);
+
+            while (maxDeque.peekFirst() - minDeque.peekFirst() > limit) {
+
+                if (nums[left] == maxDeque.peekFirst()) {
+                    maxDeque.pollFirst();
+                }
+
+                if (nums[left] == minDeque.peekFirst()) {
+                    minDeque.pollFirst();
+                }
+
+                left++;
+            }
+
+            result = Math.max(result, right - left + 1);
         }
-        return res;
+
+        return result;
     }
 }
