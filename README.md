@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Combinatorics
 |  |
