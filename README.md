@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Tree
 |  |
@@ -308,4 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
