@@ -1,21 +1,25 @@
 import java.util.*;
 
 class Solution {
+
     public List<Integer> postorderTraversal(TreeNode root) {
-        LinkedList<Integer> result = new LinkedList<>();
-        if (root == null) return result;
 
-        Stack<TreeNode> stack = new Stack<>();
-        stack.push(root);
+        List<Integer> result = new ArrayList<>();
 
-        while (!stack.isEmpty()) {
-            TreeNode node = stack.pop();
-            result.addFirst(node.val);
-
-            if (node.left != null) stack.push(node.left);
-            if (node.right != null) stack.push(node.right);
-        }
+        postorder(root, result);
 
         return result;
+    }
+
+    private void postorder(TreeNode node, List<Integer> result) {
+
+        if (node == null) {
+            return;
+        }
+
+        postorder(node.left, result);
+        postorder(node.right, result);
+
+        result.add(node.val);
     }
 }
