@@ -1,12 +1,27 @@
+import java.util.*;
+
 class Solution {
+
     public int leastInterval(char[] tasks, int n) {
-        int[] f = new int[26];
-        for (char c : tasks) f[c - 'A']++;
-        int max = 0, cnt = 0;
-        for (int x : f) {
-            if (x > max) { max = x; cnt = 1; }
-            else if (x == max) cnt++;
+
+        int[] freq = new int[26];
+
+        for (char task : tasks) {
+            freq[task - 'A']++;
         }
-        return Math.max(tasks.length, (max - 1) * (n + 1) + cnt);
+
+        Arrays.sort(freq);
+
+        int maxFreq = freq[25] - 1;
+
+        int idleSlots = maxFreq * n;
+
+        for (int i = 24; i >= 0 && freq[i] > 0; i--) {
+            idleSlots -= Math.min(freq[i], maxFreq);
+        }
+
+        idleSlots = Math.max(0, idleSlots);
+
+        return tasks.length + idleSlots;
     }
 }
