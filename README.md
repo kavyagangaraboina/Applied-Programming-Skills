@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
