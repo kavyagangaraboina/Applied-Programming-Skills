@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## String
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Queue
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0322-coin-change) |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -340,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
