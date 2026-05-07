@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
