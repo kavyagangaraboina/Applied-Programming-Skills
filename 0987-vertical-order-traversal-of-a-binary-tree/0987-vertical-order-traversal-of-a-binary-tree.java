@@ -1,27 +1,77 @@
 import java.util.*;
 
 class Solution {
-    public List<List<Integer>> verticalTraversal(TreeNode r) {
-        List<int[]> l = new ArrayList<>();
-        dfs(r, 0, 0, l);
-        Collections.sort(l, (a,b) -> 
-            a[0]==b[0] ? (a[1]==b[1] ? a[2]-b[2] : a[1]-b[1]) : a[0]-b[0]);
-        List<List<Integer>> res = new ArrayList<>();
-        int prev = Integer.MIN_VALUE;
-        for (int[] x : l) {
-            if (x[0] != prev) {
-                res.add(new ArrayList<>());
-                prev = x[0];
-            }
-            res.get(res.size()-1).add(x[2]);
+
+    class Tuple {
+        TreeNode node;
+        int row;
+        int col;
+
+        Tuple(TreeNode node, int row, int col) {
+            this.node = node;
+            this.row = row;
+            this.col = col;
         }
-        return res;
     }
 
-    void dfs(TreeNode n, int c, int r, List<int[]> l) {
-        if (n == null) return;
-        l.add(new int[]{c, r, n.val});
-        dfs(n.left, c-1, r+1, l);
-        dfs(n.right, c+1, r+1, l);
+    public List<List<Integer>> verticalTraversal(TreeNode root) {
+
+        TreeMap<Integer, List<int[]>> map = new TreeMap<>();
+
+        Queue<Tuple> queue = new LinkedList<>();
+        queue.offer(new Tuple(root, 0, 0));
+
+        while (!queue.isEmpty()) {
+
+            Tuple current = queue.poll();
+
+            map.putIfAbsent(current.col, new ArrayList<>());
+
+            map.get(current.col).add(
+                new int[]{current.row, current.node.val}
+            );
+
+            if (current.node.left != null) {
+                queue.offer(
+                    new Tuple(
+                        current.node.left,
+                        current.row + 1,
+                        current.col - 1
+                    )
+                );
+            }
+
+            if (current.node.right != null) {
+                queue.offer(
+                    new Tuple(
+                        current.node.right,
+                        current.row + 1,
+                        current.col + 1
+                    )
+                );
+            }
+        }
+
+        List<List<Integer>> result = new ArrayList<>();
+
+        for (List<int[]> list : map.values()) {
+
+            Collections.sort(list, (a, b) -> {
+                if (a[0] == b[0]) {
+                    return a[1] - b[1];
+                }
+                return a[0] - b[0];
+            });
+
+            List<Integer> temp = new ArrayList<>();
+
+            for (int[] arr : list) {
+                temp.add(arr[1]);
+            }
+
+            result.add(temp);
+        }
+
+        return result;
     }
 }
