@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
+| [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0078-subsets) |
+| [1763-longest-nice-substring](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Combinatorics
 |  |
 | ------- |
