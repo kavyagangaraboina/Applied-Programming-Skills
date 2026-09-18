@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/kavyagangaraboina/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
